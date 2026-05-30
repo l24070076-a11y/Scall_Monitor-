@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+.env
+package-lock.json
+
+# Android
+android/.gradle/
+android/local.properties
+android/.idea/
+android/build/
+android/app/build/
+android/*.iml
+
+# Archivos temporales
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+desktop.ini
